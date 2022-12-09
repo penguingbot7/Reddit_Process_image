@@ -8,6 +8,10 @@
 
 ![westlaw-next-logo-print](https://user-images.githubusercontent.com/120116812/206751473-9eaa78b3-3b5e-4a1c-95b4-238899f743a8.png)
 ![Screenshot_2022-12-09_09-29-06](https://user-images.githubusercontent.com/120116812/206759323-84f51f49-5664-4bb2-9e93-bcc6d0b46a3d.png)
+#new images
+#post hide and seek
+![Screenshot_2022-12-09_10-29-44](https://user-images.githubusercontent.com/120116812/206768906-b0bd20f5-e637-4e9f-a60e-8df456e7892e.png)
+![Screenshot_2022-12-09_10-28-59](https://user-images.githubusercontent.com/120116812/206768915-2a60dc3b-be10-4fda-b814-0222c8094e5a.png)
 
 
 Additional Information for California Users
