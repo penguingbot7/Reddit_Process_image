@@ -5,12 +5,14 @@
 ![Screenshot_2022-12-09_04-39-11](https://user-images.githubusercontent.com/120116812/206753760-c5bb4a95-162a-4738-9076-f85645828a7c.png)
 ![thomson-reuters-white-logo](https://user-images.githubusercontent.com/120116812/206751447-346cb004-13b2-4bd3-b169-754046efaf8b.png)
 ![westlaw-next-logo-print](https://user-images.githubusercontent.com/120116812/206751473-9eaa78b3-3b5e-4a1c-95b4-238899f743a8.png)
+![Screenshot_2022-12-09_09-29-06](https://user-images.githubusercontent.com/120116812/206759323-84f51f49-5664-4bb2-9e93-bcc6d0b46a3d.png)
+
 
 Additional Information for California Users
 
 The California Consumer Privacy Act ("CCPA”), as amended, requires us to provide California residents with some additional information, which we address in this section.
 
-In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:![Screenshot_2022-12-09_09-29-06](https://user-images.githubusercontent.com/120116812/206759153-b4c9a576-9c65-45e5-9696-f9b62c023a6d.png)
+In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:!
     Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
     Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
 
