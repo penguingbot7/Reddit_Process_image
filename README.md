@@ -14,6 +14,9 @@
 ![Screenshot_2022-12-09_10-28-59](https://user-images.githubusercontent.com/120116812/206768915-2a60dc3b-be10-4fda-b814-0222c8094e5a.png)
 #new ban
 ![Screenshot_2022-12-09_11-24-12](https://user-images.githubusercontent.com/120116812/206781485-82767622-48d6-46dd-b9bc-b86434a1a18c.png)
+New account
+![Screenshot_2022-12-09_11-40-56](https://user-images.githubusercontent.com/120116812/206784037-7ff8e22e-84ec-499b-9b26-ae0a9e4ad87b.png)
+
 
 
 
