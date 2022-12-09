@@ -12,6 +12,9 @@
 #post hide and seek
 ![Screenshot_2022-12-09_10-29-44](https://user-images.githubusercontent.com/120116812/206768906-b0bd20f5-e637-4e9f-a60e-8df456e7892e.png)
 ![Screenshot_2022-12-09_10-28-59](https://user-images.githubusercontent.com/120116812/206768915-2a60dc3b-be10-4fda-b814-0222c8094e5a.png)
+#new ban
+![Screenshot_2022-12-09_11-24-12](https://user-images.githubusercontent.com/120116812/206781485-82767622-48d6-46dd-b9bc-b86434a1a18c.png)
+
 
 
 Additional Information for California Users
