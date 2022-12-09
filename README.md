@@ -5,18 +5,12 @@
 ![Screenshot_2022-12-09_04-39-11](https://user-images.githubusercontent.com/120116812/206753760-c5bb4a95-162a-4738-9076-f85645828a7c.png)
 ![thomson-reuters-white-logo](https://user-images.githubusercontent.com/120116812/206751447-346cb004-13b2-4bd3-b169-754046efaf8b.png)
 ![westlaw-next-logo-print](https://user-images.githubusercontent.com/120116812/206751473-9eaa78b3-3b5e-4a1c-95b4-238899f743a8.png)
+
 Additional Information for California Users
 
 The California Consumer Privacy Act ("CCPA”), as amended, requires us to provide California residents with some additional information, which we address in this section.
 
-In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:
-
-    Identifiers, like your Reddit username, email address, IP address, and cookie information.
-    Commercial information, including information about transactions you undertake with us.
-    Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
-    Geolocation information based on your IP address, or more specific location information if you authorize your device to provide it to us.
-    Your messages with other users (e.g., private messages, chats, and modmail).
-    Audiovisual information in pictures, audio, or video content submitted to Reddit.
+In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:![Screenshot_2022-12-09_09-29-06](https://user-images.githubusercontent.com/120116812/206759153-b4c9a576-9c65-45e5-9696-f9b62c023a6d.png)
     Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
     Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
 
