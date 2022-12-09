@@ -1,4 +1,4 @@
-![Screenshot_2022-12-09_09-06-37](https://user-images.githubusercontent.com/120116812/206754293-c85462f9-80d8-4a26-bd1c-24b85756eb11.png)
+
 ![Screenshot_2022-12-09_05-19-05](https://user-images.githubusercontent.com/120116812/206753743-06dfe0e8-ab6c-4c76-bdaa-94609e8e221d.png)
 ![Screenshot_2022-12-09_05-15-23](https://user-images.githubusercontent.com/120116812/206753748-82f8a884-1bea-44ad-9a8c-166c1393de99.png)
 ![Screenshot_2022-12-09_05-13-25](https://user-images.githubusercontent.com/120116812/206753754-401f04f1-ade2-459f-ac53-0f90a9ec26fd.png)
