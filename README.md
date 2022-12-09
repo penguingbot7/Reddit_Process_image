@@ -1,3 +1,9 @@
+ California Code of Regulations
+
+Welcome to the newly enhanced site for the California Code of Regulations. This site has been upgraded to assure you a positive Thomson Reuters Westlaw experience. This website is maintained by Thomson Reuters.
+
+By using this website, you agree not to use it in any manner that could disable, overburden, damage, or impair the site or interfere with any other party’s use of the website, or to use any device, software or routine that interferes with the proper working of the website.
+
 
 ![Screenshot_2022-12-09_05-19-05](https://user-images.githubusercontent.com/120116812/206753743-06dfe0e8-ab6c-4c76-bdaa-94609e8e221d.png)
 ![Screenshot_2022-12-09_05-15-23](https://user-images.githubusercontent.com/120116812/206753748-82f8a884-1bea-44ad-9a8c-166c1393de99.png)
