@@ -22,12 +22,8 @@ more filters
 ![Screenshot_2022-12-09_12-40-40](https://user-images.githubusercontent.com/120116812/206792700-0b19925a-e3c9-4729-ac4a-93eba51b356e.png)
 
 More Imagage what a sesspool
-![Screenshot_2022-12-09_22-20-42](https://user-images.githubusercontent.com/120116812/206835340-f84e005b-3cca-4a70-b47c-67cf91184d37.png)
-![Screenshot_2022-12-09_17-25-01](https://user-images.githubusercontent.com/120116812/206835341-b3e01a1b-4223-43e6-9f90-7c5cba1818b9.png)
-![Screenshot_2022-12-09_12-41-20](https://user-images.githubusercontent.com/120116812/206835342-115b536a-fd11-41f9-9027-4fe1fd771617.png)
-![Screenshot_2022-12-09_12-40-40](https://user-images.githubusercontent.com/120116812/206835343-7c359159-f587-4ced-bde6-de6fec651345.png)
-![Screenshot_2022-12-09_11-40-56](https://user-images.githubusercontent.com/120116812/206835344-84ab8873-f163-4e96-9830-cf419c3a7ec3.png)
-
+![Screenshot_2022-12-09_22-20-42](https://user-images.githubusercontent.com/120116812/206835367-b8aad1aa-a847-43dd-97dd-81295f48e9f7.png)
+![Screenshot_2022-12-09_17-25-01](https://user-images.githubusercontent.com/120116812/206835369-95c210b2-ac7a-4009-a46b-da5fb783719d.png)
 
 Additional Information for California Users
 
