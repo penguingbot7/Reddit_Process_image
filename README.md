@@ -24,6 +24,9 @@ more filters
 More Imagage what a sesspool
 ![Screenshot_2022-12-09_22-20-42](https://user-images.githubusercontent.com/120116812/206835367-b8aad1aa-a847-43dd-97dd-81295f48e9f7.png)
 ![Screenshot_2022-12-09_17-25-01](https://user-images.githubusercontent.com/120116812/206835369-95c210b2-ac7a-4009-a46b-da5fb783719d.png)
+the place is really bad it cannot hold a open post and has to moderate cannot be freeform very sad operations
+![Screenshot_2022-12-09_22-49-15](https://user-images.githubusercontent.com/120116812/206836192-408feb16-e7a5-4d53-8177-400fc859eb46.png)
+
 
 Additional Information for California Users
 
